@@ -1,9 +1,9 @@
 {
 	"recommendations": [
 		"bierner.markdown-preview-github-styles",
-        "DavidAnson.vscode-markdownlint",
-        "esbenp.prettier-vscode",
-        "streetsidesoftware.code-spell-checker",
-        "ms-vscode.vscode-typescript-next"
+        	"DavidAnson.vscode-markdownlint",
+        	"esbenp.prettier-vscode",
+        	"streetsidesoftware.code-spell-checker",
+        	"ms-vscode.vscode-typescript-next"
 	]
 }
