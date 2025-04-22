@@ -1,2 +1,1 @@
-# node-codespace-template
-Template for developing in Node in CodeSpace
+# Template for Developing in Node in CodeSpace
