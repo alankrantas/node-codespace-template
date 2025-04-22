@@ -1,1 +1,1 @@
-# Template for Developing in Node in CodeSpace
+# Template for Developing JS/TS in Node in CodeSpace
